@@ -32,8 +32,8 @@ It also generates a **heatmap** to visualize areas of high and low activity — 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/people-flow-heatmap.git
-cd people-flow-heatmap
+git clone https://github.com/imran-sony/people_tracking.git
+cd people_tracking
 ```
 
 ## 🎬 Usage
